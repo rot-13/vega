@@ -1,0 +1,4 @@
+Vega
+=======
+
+A video file management library
