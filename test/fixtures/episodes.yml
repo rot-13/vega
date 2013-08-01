@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  season: 1
+  episode: 1
+  name: MyString
+  series_id: 1
+
+two:
+  season: 1
+  episode: 1
+  name: MyString
+  series_id: 1
